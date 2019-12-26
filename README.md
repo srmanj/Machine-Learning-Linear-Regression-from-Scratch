@@ -1,1 +1,0 @@
-# Machine-Learning-Linear-Regression-from-Scratch
